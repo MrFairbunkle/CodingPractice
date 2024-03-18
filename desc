@@ -1,0 +1,17 @@
+Project Description:
+Create a text-based adventure game where the player navigates through a maze-like dungeon, encountering various obstacles, monsters, and treasures. The game should be played entirely through text-based commands and responses. The player will explore the dungeon, search for treasure, and avoid traps and enemies.
+
+Game Mechanics:
+
+Player Movement: The player moves through the dungeon one room at a time using commands like "north", "south", "east", and "west".
+Room Encounters: Each room may contain different elements such as treasure chests, traps, monsters, or empty rooms. Randomize the placement of these elements in the dungeon.
+Combat System: When the player encounters a monster, they can choose to fight or flee. Implement a simple combat system where the player and the monster take turns attacking until one is defeated.
+Treasure Collection: Include various types of treasures scattered throughout the dungeon. When the player finds a treasure chest, they can attempt to open it and collect the treasure inside.
+Health and Resources: Track the player's health and any resources (such as potions) they may collect during their journey. Health may decrease during combat or when triggering traps.
+Win and Lose Conditions: The player wins the game by reaching a certain goal (e.g., finding a legendary artifact) or defeating a final boss. The player loses if their health reaches zero.
+Additional Features:
+
+Random Events: Introduce random events such as cave-ins, secret passages, or encounters with friendly NPCs.
+Difficulty Levels: Implement different difficulty levels with varying dungeon sizes, monster strength, and treasure rarity.
+Game Saving: Allow players to save their progress and resume the game later.
+ASCII Art: Use ASCII art to visualize the dungeon layout, monsters, and treasures.
